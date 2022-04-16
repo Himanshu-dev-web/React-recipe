@@ -1,4 +1,4 @@
-Live Link to Project is :himanshurecipe.netlify.app
+Live Link to Project is :https://himanshurecipe.netlify.app/
 
 
 # Getting Started with Create React App
